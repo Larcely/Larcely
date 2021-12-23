@@ -25,8 +25,8 @@ I'm using(for now) these languages/frameworks/libraries/databases; <br>
 ### <p align='center'>My accounts</p>
 
 <p align='center'>
-<a href="https://steamcommunity.com/id/Larcely/"><img height="31" src="https://i.ibb.co/yYCj0kq/steam-96px.png"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCx2qRg7LXBIo7WUf4Z8J3hw"><img height="31" src="https://i.ibb.co/KG38DWT/youtube-squared-96px.png"></a>&nbsp;&nbsp;
+<a href="https://steamcommunity.com/id/Lijaya/"><img height="31" src="https://i.ibb.co/yYCj0kq/steam-96px.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/Lijaya"><img height="31" src="https://i.ibb.co/KG38DWT/youtube-squared-96px.png"></a>&nbsp;&nbsp;
 <a href="https://www.twitch.tv/larcely"><img height="27" src="https://www.iconninja.com/files/256/542/466/twitch-twitch-tv-icon.svg"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/ryppfphp00uf80gtqf0flo9u1"><img height="27" src="https://user-images.githubusercontent.com/92058409/137535929-eb9cda53-e247-49d5-9267-19df598f9058.png"></a>&nbsp;&nbsp;
 <a href="https://data.typeracer.com/pit/profile?user=goddess_111"><img height="30" src="https://user-images.githubusercontent.com/92058409/137597812-1b8f2303-2d9f-4ecb-ac4c-2403673a1495.jpeg"></a>&nbsp;&nbsp;
