@@ -3,7 +3,7 @@
 Hey there! <br>
 I am Lara(Larcely), and this is my github account. <br>
 You can send me message from discord if you want. <a href="https://discord.gg/wpXgvRxzpf">Lara#0666</a> <br>
-My OS : <a href="https://getfedora.org/">Fedora OS</a> <br>
+My OS : <a href="https://elementary.io/">Elementary OS</a> <br>
 I'm a developer as student. <br>
 If you see an error from my applications, please let me know. I need to see my mistakes. ☺️ <br>
 I'm using(for now) these languages/frameworks/libraries/databases; <br>
