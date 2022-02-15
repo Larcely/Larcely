@@ -1,9 +1,9 @@
 <div align='center'><img height="250" src="https://user-images.githubusercontent.com/92058409/147273348-9a55516c-b262-4420-bad8-c6f2c416d275.png">
 <br>
 Hey there! <br>
-I am Lara(Larcely), and this is my github account. <br>
-You can send me message from discord if you want. <a href="https://discord.gg/wpXgvRxzpf">Lara#0666</a> <br>
-My OS : <a href="https://elementary.io/">Elementary OS</a> <br>
+I am Lara, and this is my github account. <br>
+You can send me message from discord if you want. <a href="https://discord.gg/wpXgvRxzpf">Lara#0007</a> <br>
+My OS : <a href="https://ubuntu.com">Ubuntu 20.04</a> <br>
 I'm a developer as student. <br>
 If you see an error from my applications, please let me know. I need to see my mistakes. ☺️ <br>
 I'm using(for now) these languages/frameworks/libraries/databases; <br>
