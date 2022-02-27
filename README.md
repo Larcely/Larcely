@@ -1,4 +1,4 @@
-<div align='center'><img height="250" src="https://user-images.githubusercontent.com/92058409/147273348-9a55516c-b262-4420-bad8-c6f2c416d275.png">
+<div align='center'><img height="250" src="https://user-images.githubusercontent.com/92058409/155869898-97c660e7-4504-48e4-99fb-bab072fb92cb.png">
 <br>
 Hey there! <br>
 I am Lara, and this is my github account. <br>
