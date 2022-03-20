@@ -2,7 +2,7 @@
 <br>
 Hey there! <br>
 I am Lara, and this is my github account. <br>
-You can send me message on discord if you want. <a href="https://discord.gg/wpXgvRxzpf">Lara#0007</a> <br>
+You can send me message on discord if you want. <a href="https://discord.gg/wpXgvRxzpf">Lara#9999</a> <br>
 My OS : <a href="https://parrotsec.org">Parrot Security 4.11.3 - Mate Desktop</a> <br>
 I'm a developer as student. <br>
 If you see an error from my applications, please let me know. I need to see my mistakes. ☺️ <br>
