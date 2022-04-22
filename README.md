@@ -1,8 +1,8 @@
-<div align='center'><img height="250" src="https://user-images.githubusercontent.com/92058409/159124351-be5c6c19-1979-48ce-a24c-277beee87852.png">
+<div align='center'><img height="250" src="https://i.hizliresim.com/3v5loqn.png">
 <br>
 Hey there! <br>
 I am Lara, and this is my github account. <br>
-You can send me message on discord if you want. <a href="https://discord.gg/wpXgvRxzpf">Lara#9999</a> <br>
+You can send me message on discord if you want. <a href="#">Lara#9579</a> <br>
 My OS : <a href="https://parrotsec.org">Parrot Security 4.11.3 - Mate Desktop</a> <br>
 I'm a developer as student. <br>
 If you see an error from my applications, please let me know. I need to see my mistakes. ☺️ <br>
